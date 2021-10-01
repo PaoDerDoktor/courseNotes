@@ -147,3 +147,20 @@ a(u, u) = ||u||_(H^1(\omega)) > 0
 ```
 
 Donc ``(P3)`` admet une seule unique solution
+
+##### En dimension 2
+
+On pose :
+
+```maths
+\omega = ]0, 1[ * ]0, 1[
+
+                                  /
+                                 /  -\delta u(x) = f(x) dans \omega
+trouver u \in (H_0)^1(\omega) | <
+                                 \  u = 0 sur \drond \omega
+                                  \
+
+x = (x_1, x_2)
+```
+
